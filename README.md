@@ -50,5 +50,23 @@ Sign In page:
 ![Screenshot 2024-05-12 130531](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/c6f0930b-990a-4080-9783-fded55b28a5f)
 
 
+sign up page:
+
+![Screenshot 2024-05-12 130558](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/b16a59fc-99de-44ac-80f5-53a6d712b7fb)
+
+Project uploading:
+
+![Screenshot 2024-05-12 130639](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/ccb01f98-5d82-491e-96fe-b229e86d2d89)
+
+Project Investing:
+
+![Screenshot 2024-05-12 130721](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/ecd0557b-61f2-417d-964a-018af2e27cb2)
+
+
+
 
 --**implementation video**--
+
+
+
+https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/f05b010b-9883-42f0-816a-0003c98bc641
