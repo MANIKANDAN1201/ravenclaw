@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .heading {
+            margin: 0;
+        }
+
+        main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .card-container {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            margin: 20px;
+        }
+
+        .card {
+            width: 300px;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            background-color: #f9f9f9;
+            margin-right: 20px; /* Add margin between cards */
+        }
+
+        .card-title {
+            margin-top: 0;
+            margin-bottom: 15px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        form {
+            text-align: left;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+        }
+
+        input[type="text"],
+        textarea,
+        input[type="file"],
+        input[type="date"] {
+            width: calc(100% - 16px);
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        button {
+            width: calc(100% - 16px); /* Adjust button width */
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            padding: 10px;
+            transition: background-color 0.3s;
+            margin-top: 30px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1 class="heading">Project Details</h1>
+</header>
+<main>
+    <div class="card-container">
+        <div class="card">
+            <h2 class="card-title">Basics</h2>
+            <form>
+                <label for="project-name">Name of the project:</label>
+                <input type="text" id="project-name" name="project-name">
+                <label for="project-about">About the project:</label>
+                <textarea id="project-about" name="project-about" rows="6"></textarea>
+                <label for="upload-media">Upload video or image:</label>
+                <input type="file" id="upload-media" name="upload-media">
+                
+            </form>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">Overview</h2>
+            <form>
+                <label for="detailed-pitch">Detailed pitch:</label>
+                <textarea id="detailed-pitch" name="detailed-pitch" rows="6"></textarea>
+                <label for="reason-to-invest">Reason to invest:</label>
+                <textarea id="reason-to-invest" name="reason-to-invest" rows="6"></textarea>
+                <button>Submit</button>
+            </form>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">Terms</h2>
+            <form>
+                <label for="min-investment">Minimum investment:</label>
+                <input type="text" id="min-investment" name="min-investment">
+                <label for="max-investment">Maximum investment:</label>
+                <input type="text" id="max-investment" name="max-investment">
+                <label for="deadline-date">Deadline date:</label>
+                <input type="date" id="deadline-date" name="deadline-date">
+                <label for="funding-goal">Funding goal:</label>
+                <input type="text" id="funding-goal" name="funding-goal">
+                
+            </form>
+        </div>
+    </div>
+</main>
+</body>
+</html>
