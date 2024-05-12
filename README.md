@@ -23,9 +23,9 @@ Change Forge is more than a bridge between investors and project providers; it's
 
                   
 --**Tech Stack**--
---Fire base--
---Flask--
---HTML--
+Fire base\n
+Flask
+HTML
 CSS
 Machine Learning 
 
