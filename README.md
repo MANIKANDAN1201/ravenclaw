@@ -36,5 +36,11 @@ Machine Learning.
 
 --**Step by step implementation**--
 
+Home page: 
+
+
+![Screenshot 2024-05-12 130350](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/f5cc1180-e77e-444c-b79f-84a0de45a94e)
+
+
 
 --**implementation video**--
