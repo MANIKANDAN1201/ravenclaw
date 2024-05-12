@@ -41,6 +41,10 @@ Home page:
 
 ![Screenshot 2024-05-12 130350](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/f5cc1180-e77e-444c-b79f-84a0de45a94e)
 
+![Screenshot 2024-05-12 130441](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/425cf36b-61c4-4267-ad5b-cba59d46f138)
+
+![Screenshot 2024-05-12 130506](https://github.com/MANIKANDAN1201/ravenclaw/assets/140843246/1def8ce6-6138-4939-9610-c7227d48479e)
+
 
 
 --**implementation video**--
